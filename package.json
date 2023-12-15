@@ -1,0 +1,17 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "blockchain and smart contract",
+  "main": "index.js",
+  "scripts": {
+    "start": "node blockchain.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+  "author": "Koha",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "nodemon": "^3.0.2"
+  }
+}
